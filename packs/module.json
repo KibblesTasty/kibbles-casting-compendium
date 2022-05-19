@@ -1,24 +1,24 @@
 {
-"name": "kibbles-casting-compendium",
-"title": "Kibbles' Casting Compendium",
-"description": "A complete compendium of Kibbles' Spells",
+"name": "kibbles-generic-spells",
+"title": "Kibbles' Generic Elemental Spells",
+"description": "An expanded pack of Elemental Spells",
 "author": "KibblesTasty",
-"version": "1.4.0",
+"version": "1.6.2",
 "minimumCoreVersion": "0.6.0",
 "compatibleCoreVersion": "9",
-"manifest": "https://raw.githubusercontent.com/KibblesTasty/kibbles-casting-compendium/main/module.json",
-"download": "https://github.com/KibblesTasty/kibbles-casting-compendium/releases/download/archive/kibbles-casting-compendium-main.zip",
+"manifest": "https://raw.githubusercontent.com/KibblesTasty/kibbles-generic-spells/main/module.json",
+"download": "https://github.com/KibblesTasty/kibbles-generic-spells/releases/download/archive/kibbles-generic-spells-main.zip",
 "keywords" : [
 			"spells"
 		],
 "packs": [
 			{
-			"name": "kibbles-casting-compendium",
-			"label": "Kibbles' Casting Compendium",
+			"name": "kibbles-generic-spells",
+			"label": "Kibbles' Generic Elemental Spells",
 			"system": "dnd5e",
-			"path": "packs/kibbles-casting-compendium.db",
+			"path": "packs/kibbles-generic-spells.db",
 			"entity": "Item",
-			"module": "kibbles-casting-compendium"
+			"module": "kibbles-generic-spells"
 			}
 		],
 "authors": [
