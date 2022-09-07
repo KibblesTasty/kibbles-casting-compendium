@@ -3,9 +3,9 @@
 "title": "Kibbles' Casting Compendium",
 "description": "A complete compendium of Kibbles' Spells",
 "author": "KibblesTasty",
-"version": "1.6.2",
+"version": "1.7",
 "minimumCoreVersion": "0.6.0",
-"compatibleCoreVersion": "9",
+"compatibleCoreVersion": "10",
 "manifest": "https://raw.githubusercontent.com/KibblesTasty/kibbles-casting-compendium/main/module.json",
 "download": "https://github.com/KibblesTasty/kibbles-casting-compendium/releases/download/archive/kibbles-casting-compendium-main.zip",
 "keywords" : [
