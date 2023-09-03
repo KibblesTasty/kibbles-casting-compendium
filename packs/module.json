@@ -3,9 +3,9 @@
 "title": "Kibbles' Casting Compendium",
 "description": "A complete compendium of Kibbles' Spells",
 "author": "KibblesTasty",
-"version": "2.2.1",
+"version": "2.2.4",
 "compatibility": {
-    "minimum": "10",
+    "minimum": "11",
     "verified": "11"
   },
 "manifest": "https://raw.githubusercontent.com/KibblesTasty/kibbles-casting-compendium/main/module.json",
@@ -18,7 +18,7 @@
 			"name": "kibbles-casting-compendium",
 			"label": "Kibbles' Casting Compendium",
 			"system": "dnd5e",
-			"path": "packs/kibbles-casting-compendium.db",
+			"path": "packs/kibbles-casting-compendium",
 			"type": "Item",
 			"entity": "Item",
 			"module": "kibbles-casting-compendium"
