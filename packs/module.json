@@ -1,10 +1,9 @@
 {
-"name": "kibbles-casting-compendium",
+"id": "kibbles-casting-compendium",
 "title": "Kibbles' Casting Compendium",
 "description": "A complete compendium of Kibbles' Spells",
 "author": "KibblesTasty",
-"version": "2.1.1",
-"minimumCoreVersion": "0.6.0",
+"version": "2.2.1",
 "compatibility": {
     "minimum": "10",
     "verified": "11"
